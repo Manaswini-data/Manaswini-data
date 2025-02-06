@@ -3,8 +3,8 @@
 👋 Hi there! I'm a Data Engineer and BI Developer with a strong foundation in building
 scalable data systems and managing data workflows.
 
-🌱 Currently Learning:
-👉 Advanced Data Engineering architectures.
+🌱 Currently Learning:<br>
+👉 Advanced Data Engineering architectures.<br>
 👉 Real-time data streaming and processing (Apache Kafka, AWS Kinesis).
 
 💬 Feel free to connect with me if you're working on data engineering projects or have
